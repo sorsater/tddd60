@@ -1,3 +1,3 @@
 #no latexfiles
-.aux
-.log
+*.aux
+*.log
