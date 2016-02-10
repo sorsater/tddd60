@@ -1,5 +1,5 @@
-# tddd60
+# TDDD60
 
-summary written in latex
+Summary written in latex
 
-to get more used to latex
+To get more used to working in latex
